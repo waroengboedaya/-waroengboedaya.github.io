@@ -1,13 +1,13 @@
 ---
 layout: default
 ---
-<section class="posts">
+<section class="post">
 <h2>Hello!</h2>
 
 <p>We are a small, casual company who have fond interest on design and craftmanship as way of life. We explore, learn and build with our head, heart and hands. We cherish creating works that brings joy and meaning in everyday’s life and community we live in.</p> 
 
 <h3>Current Interests</h3>
-<ul>
+<ul class="posts">
 {% for link in site.links %}
 <li><a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a><time datetime="{{ link.date | date_to_xmlschema }}">{{ link.date | date: "%m-%d-%Y" }}</time></li>
 {% endfor %}
