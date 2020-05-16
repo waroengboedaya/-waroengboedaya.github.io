@@ -1,7 +1,8 @@
 ---
 layout: link
-title: Sample Link for Netlify CMS
-date: 2020-05-15T14:51:28.823Z
-linkurl: https://www.netlifycms.org/docs/examples/
+title: "The Psychology of Design : 101 Cognitive Biases & Principles That Affect
+  Your UX"
+date: 2020-05-16T17:20:41.213Z
+linkurl: https://growth.design/psychology/
 ---
-Build, test, and deploy globally with Netlify’s all-in-one platform for modern web projects
+List of cognitive biases and design heuristics 
